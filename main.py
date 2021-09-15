@@ -63,3 +63,9 @@ topThreeSports()
 topThreeFoods()
 topThreeIceCreams()
 topThreeTVShows()
+
+def myNameIs(dog):
+    print(dog + " is my name.")
+
+myNameIs("Emma")
+myNameIs("Donndelinger")

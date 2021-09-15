@@ -1,11 +1,11 @@
-print("Hello World!")
-print("Good Morning!")
+#define function
+def topFiveMovies():
+    #first movie
+    print("The Maze Runner")
 
-#Print first movie
-print("The Maze Runner")
+    #second movie
+    print("Mamma Mia")
 
-#Print second movie
-print("Mamma Mia")
-
-#Print third movie
-print("Guardians of the Galaxy")
+    #third movie
+    print("Guardians of the Galaxy")
+topFiveMovies()

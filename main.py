@@ -69,3 +69,25 @@ def myNameIs(dog):
 
 myNameIs("Emma")
 myNameIs("Donndelinger")
+
+def plusFive(num):
+    print(num + 5)
+
+def dividedByTwo(num):
+    print(num / 2)
+
+def timesTen(num):
+    print(num * 10)
+
+timesTen(60)
+plusFive(94)
+dividedByTwo(42)
+
+def addTwoNumbers(x, y):
+    print(x + y)
+
+addTwoNumbers(28,75)
+
+def madLib():
+    print("While i've stayed at home, i've practiced the ")
+    
